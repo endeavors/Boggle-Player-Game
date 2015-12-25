@@ -1,0 +1,6 @@
+bogtest
+pa4
+build/
+*.o
+*.swp
+*.swo
